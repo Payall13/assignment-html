@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>REGISTRATION form</title>
+</head>
+	<body>
+	<form action="registration form" method="POST">
+	<input type="text" name="txtnm" placeholder="enter full name" required></br></br>
+	<input type="text" name="txtnm" placeholder="enter username" required></br></br>
+	<input type="password" name="txtpwd" placeholder="enter password" ></br></br>
+	<input type="password" name="txtpwd" placeholder="re-type password"></br></br>
+	<input type="state" name="txtst" placeholder="enter your state"></br></br>
+	<input type="email" name="txtml" placeholder="enter your email"></br></br>
+	<input type="gender" name="txtgr" placeholder="enter your gender"></br></br>
+	</body>
+</html>
