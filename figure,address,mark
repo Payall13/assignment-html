@@ -1,0 +1,20 @@
+<html>
+  <head>
+  <title>figure caption</title>
+  </head>
+	<body>
+	<figure>
+	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzo9ygbuZwmv4zN6q9yU8KQ5SF-W6Ui_bG-4GSEaxA&s" width="25%">
+	<figcaption> fig.1- Sunflower.<figcaption>
+	</figure>
+	
+<address>
+written by <a href="mail to:gitanjalipgdca@gmail.com">
+Payal Pansuriya<a>.</br>
+visit us at:</br>
+pgdca.com</br>
+Red Square 234, Park Avenue</br>
+USA
+</address>
+
+I'm <mark> Payal Pansuriya</mark>.
