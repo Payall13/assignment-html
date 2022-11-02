@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>navigation</title>
+</head>
+<body>
+	<nav>
+	<a href=" ">HOME</a></br>
+	<a href=" ">ABOUT</a></br>
+	<a href=" ">CONTACT</a></br>
+	</nav>
+</body>
+</html>
