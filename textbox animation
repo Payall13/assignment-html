@@ -12,6 +12,7 @@
   <p><input class="w3-input w3-hover-yellow" placeholder="enter name" type="text"></p>
   <p><input class="w3-input w3-border w3-hover-green" placeholder="enter mail" type="text"></p>
   <p><input class="w3-input w3-border w3-hover-blue" placeholder="enter password" type="text"></p>
+  <input type="button"  id="btnlogin"  value="login"  onclick="display()">
 </form>
 
 </body>
