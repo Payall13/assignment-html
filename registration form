@@ -11,5 +11,6 @@
 	<input type="state" name="txtst" placeholder="enter your state"></br></br>
 	<input type="email" name="txtml" placeholder="enter your email"></br></br>
 	<input type="gender" name="txtgr" placeholder="enter your gender"></br></br>
+	<input type="button"  id="btnsave"  value="save"  onclick="display()">
 	</body>
 </html>
